@@ -1,7 +1,7 @@
 # Tech Interview Templates
 - Tech interview templates to help discover technical talent.
 - First Draft - please join our team to contribute your expertise from any background!
-- Inspired by this article[Programmers confessing their sins](https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process?utm_content=50567654&utm_medium=social&utm_source=linkedin) and the twitter convo about ridiculous ego driven tech interview experiences that waste time & resources. Thank You to [DHH](https://twitter.com/dhh) and [MissXu](https://twitter.com/MissXu) for inspiring the creation of this open source repo. I hope it can serve to be the respectful change we all strive for.
+- Inspired by [Programmers confessing their sins](https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process?utm_content=50567654&utm_medium=social&utm_source=linkedin) , [You can't fix diversity in tech without fixing the interview](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) and the twitter convo about ridiculous ego driven tech interview experiences that waste time & resources. Thank You to [DHH](https://twitter.com/dhh) and [MissXu](https://twitter.com/MissXu) for inspiring the creation of this open source repo. I hope it can serve to be the respectful change we all strive for.
 
 # Purpose
 - Ensure technical interview is efficient at discovering people that can perform the job requirements.
