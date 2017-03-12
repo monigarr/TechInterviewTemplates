@@ -3,6 +3,14 @@
 - First Draft - please join our team to contribute your expertise from any background!
 - Inspired by [Programmers confessing their sins](https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process?utm_content=50567654&utm_medium=social&utm_source=linkedin) , [You can't fix diversity in tech without fixing the interview](http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/) and the twitter convo about ridiculous ego driven tech interview experiences that waste time & resources. Thank You to [DHH](https://twitter.com/dhh) and [MissXu](https://twitter.com/MissXu) for inspiring the creation of this open source repo. I hope it can serve to be the respectful change we all strive for.
 
+Diversity in the Tech Industry? Be the Change!
+
+Share your expertise with this new Open source project. If you are not comfortable with GitHub and code - Look at the Wiki Tab.
+
+It's time to stop whining about our different colors, genders, ages, castes, isms and build the solutions now.
+Be the Change. 
+
+
 # Purpose
 - Ensure technical interview is efficient at discovering people that can perform the job requirements.
 - Focus on reaching the professional requirements & goals of hiring a human that is capable & willing to do the work. 
