@@ -17,7 +17,7 @@ Be the Change.
 - Lessen hiring decisions with ego driven biases based on isms (race, age, gender, class, caste, religion, etc).
 - Create and maintain dignity & respect in the technical interview. Machines memorize & spit out code on command. Humans are not machines.
 
-# How to Contribue
+# How to Contribute
 Please contribute a pull request. 
 
 If you have questions or comments, please create an issue.
