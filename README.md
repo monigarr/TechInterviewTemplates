@@ -1,6 +1,9 @@
 # Tech Interview Templates
-Tech interview templates to help discover technical talent.
-First Draft - please join our team to contribute your expertise from any background!
+- Tech interview templates to help discover technical talent.
+- First Draft - please join our team to contribute your expertise from any background!
+- Inspired by twitter convo about ridiculous ego driven tech interview experiences that waste time & resources.
+- -[DHH](https://twitter.com/dhh)
+- -[MissXu](https://twitter.com/MissXu)
 
 # Purpose
 - Ensure technical interview is efficient at discovering people that can perform the job requirements.
