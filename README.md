@@ -7,7 +7,7 @@
 - Ensure technical interview is efficient at discovering people that can perform the job requirements.
 - Focus on reaching the professional requirements & goals of hiring a human that is capable & willing to do the work. 
 - Lessen hiring decisions with ego driven biases based on isms (race, age, gender, class, caste, religion, etc).
-- Create and maintain respect for technical talent. They are humans, not machines that memorize & spit out code on command.
+- Create and maintain dignity & respect in the technical interview. Machines memorize & spit out code on command. Humans are not machines.
 
 # How to Contribue
 Please contribute a pull request. 
