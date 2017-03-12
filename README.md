@@ -1,17 +1,21 @@
 # Tech Interview Templates
 Tech interview templates to help discover technical talent.
+First Draft - please join our team to contribute your expertise from any background!
 
 # Purpose
-Ensure technical interview is efficient at discovering people that can perform the job requirements.
-Focus on reaching the professional requirements & goals of hiring a human that is capable & willing to do the work. 
-Lessen hiring decisions with ego driven biases based on isms (race, age, gender, class, caste, religion, etc).
-Create and maintain respect for technical talent. They are humans, not machines that memorize & spit out code on command.
+- Ensure technical interview is efficient at discovering people that can perform the job requirements.
+- Focus on reaching the professional requirements & goals of hiring a human that is capable & willing to do the work. 
+- Lessen hiring decisions with ego driven biases based on isms (race, age, gender, class, caste, religion, etc).
+- Create and maintain respect for technical talent. They are humans, not machines that memorize & spit out code on command.
 
 # How to Contribue
 Please contribute a pull request. 
 
 If you have questions or comments, please create an issue.
 
+Join our team and contribute your expertise (templates, articles, etc) from any background ( hr, hiring, recruiting, interviewing, being interviewed).
+
+# Resources if you are new to contributing to open-source:
 ## Contributing to open source in general
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language
